@@ -28,4 +28,4 @@
 5. ପାଣ୍ଡା ଏବଂ SQL ବ୍ୟବହାର କରି EDA ପ୍ରଶ୍ନର ଉତ୍ତର ପାଇଁ ଯଥାକ୍ରମେ “pandas_answers.ipynb” ଏବଂ “sqlJupy_answers.ipynb” କୁ ଅନୁସରଣ କରନ୍ତୁ |
 
 
-> ଏହି README ବର୍ତ୍ତମାନ [ଇଂରାଜୀ](./README.md), [ହିନ୍ଦୀ](./readme_docs/README.hi.md), [ଓଡ଼ିଆ](./readme_docs/README.or.md), [ତାମିଲ](./readme_docs/README.ta.md) ଏବଂ [ତେଲୁଗୁ](./readme_docs/README.te.md) ଭାଷା ରେ ଉପଲବ୍ଧ |
+> ଏହି README ବର୍ତ୍ତମାନ [ଇଂରାଜୀ](./README.md), [ହିନ୍ଦୀ](./readme_docs/README.hi.md), [ଓଡ଼ିଆ](./README.or.md), [ତାମିଲ](./README.ta.md) ଏବଂ [ତେଲୁଗୁ](./README.te.md) ଭାଷା ରେ ଉପଲବ୍ଧ |

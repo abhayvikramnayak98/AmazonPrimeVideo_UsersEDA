@@ -27,5 +27,5 @@
 4. अपने विश्लेषण का मार्गदर्शन करने के लिए `dataset_questions.txt` में दिए गए EDA प्रश्नों का उपयोग करें।
 5. पेन्डास और एसक्यूएल का उपयोग करके ईडीए प्रश्नों के उत्तर के लिए क्रमशः `pandas_answers.ipynb` और `sqlJupy_answers.ipynb` देखें।
 
-> यह README वर्तमान में [अंग्रेजी](./README.md), [हिंदी](./readme_docs/README.hi.md), [उड़िया](./readme_docs/README.or.md), [तमिल](./readme_docs/README.ta.md) और [तेलुगु](./readme_docs/README.te.md) भाषाओं में उपलब्ध है।
+> यह README वर्तमान में [अंग्रेजी](./README.md), [हिंदी](./README.hi.md), [उड़िया](./README.or.md), [तमिल](./README.ta.md) और [तेलुगु](./README.te.md) भाषाओं में उपलब्ध है।
 

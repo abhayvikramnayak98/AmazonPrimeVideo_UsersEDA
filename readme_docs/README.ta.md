@@ -27,4 +27,4 @@ Amazon Prime பயனர்கள் தரவுத்தொகுப்பி
 4. உங்கள் பகுப்பாய்விற்கு வழிகாட்ட, `dataset_questions.txt` இல் வழங்கப்பட்ட EDA கேள்விகளைப் பயன்படுத்தவும்.
 5. முறையே Pandas மற்றும் SQL ஐப் பயன்படுத்தி EDA கேள்விகளுக்கான பதில்களுக்கு `pandas_answers.ipynb` மற்றும் `sqlJupy_answers.ipynb` ஐப் பார்க்கவும்.
 
-> இந்த README தற்போது [ஆங்கிலம்](./README.md), [ஹிந்தி](./readme_docs/README.hi.md), [ஒடியா](./readme_docs/README.or.md), [தமிழ்](./readme_docs/README.ta.md) மற்றும் [தெலுங்கு](./readme_docs/README.te.md) மொழிகளில் கிடைக்கிறது.
+> இந்த README தற்போது [ஆங்கிலம்](./README.md), [ஹிந்தி](./README.hi.md), [ஒடியா](./README.or.md), [தமிழ்](./README.ta.md) மற்றும் [தெலுங்கு](./README.te.md) மொழிகளில் கிடைக்கிறது.

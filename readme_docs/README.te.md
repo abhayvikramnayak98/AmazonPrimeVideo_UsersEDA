@@ -27,4 +27,4 @@ Amazon Prime వినియోగదారుల డేటాసెట్‌ల
 4. మీ విశ్లేషణకు మార్గనిర్దేశం చేసేందుకు `dataset_questions.txt`లో అందించిన EDA ప్రశ్నలను ఉపయోగించండి.
 5. వరుసగా పాండాలు మరియు SQLని ఉపయోగించి EDA ప్రశ్నలకు సమాధానాల కోసం `pandas_answers.ipynb` మరియు `sqlJupy_answers.ipynb`ని చూడండి.
 
-> ఈ README ప్రస్తుతం [ఇంగ్లీష్](./README.md), [హిందీ](./readme_docs/README.hi.md), [ఒడియా](./readme_docs/README.or.md), [తమిళం](./readme_docs/README.ta.md) & [తెలుగు](./README.te.md)లో అందుబాటులో ఉంది.
+> ఈ README ప్రస్తుతం [ఇంగ్లీష్](./README.md), [హిందీ](./README.hi.md), [ఒడియా](./README.or.md), [తమిళం](./README.ta.md) & [తెలుగు](./README.te.md)లో అందుబాటులో ఉంది.
